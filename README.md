@@ -1,0 +1,1 @@
+# latticesemi-embedded-source
