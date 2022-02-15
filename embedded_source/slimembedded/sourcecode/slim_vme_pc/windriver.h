@@ -1,0 +1,9 @@
+#define NT_DRIVER_FAIL			-1
+#define CABLE_NOT_FOUND			-2
+#define POWER_OFF				-3
+#define CABLE_NOT_DETECT		-4
+#define CANNOT_FIND_DRIVER		-5
+#define IN_VCC_OK				8
+#define OUT_SENSE_CABLE_OUT		64
+#define IN_CABLE_V2_SENSE_IN	16
+#define IN_CABLE_SENSE_IN		32
